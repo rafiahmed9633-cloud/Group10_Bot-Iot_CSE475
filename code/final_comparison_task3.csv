@@ -1,6 +1,0 @@
-Source,Method,Macro_F1
-Ours,Logistic Regression (retrained),1.0
-Ours,SimpleGNN (No Message Passing),0.9900241484060464
-E-GraphSAGE (Lo et al. 2022),GraphSAGE,0.94
-RF Baseline (Example),Random Forest,0.95
-MLP-IDS (Example),MLP,0.88
